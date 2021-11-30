@@ -35,7 +35,7 @@ Based on feedback from the last set of students that attempted this assignment, 
 
 # Last year's feedback
 
-A summary of the feedback on this project from last year is included in `old-feedback.md`. It did not have the "Improvement" question. Repetitive comments have been merged and condensed and some comments specific to the offering have been redacted. Based on the feedback, a longer time period is assigned with ample time after final exams.
+A summary of the feedback on this project from last year is included in `old-feedback.md`. It did not have the "Improvement" question. Similar comments have been merged and condensed and some comments specific to the offering have been redacted. Based on the feedback, a longer time period is assigned with ample time after final exams.
 
 # Submission
 
