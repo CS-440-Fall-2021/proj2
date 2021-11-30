@@ -35,7 +35,7 @@ Based on feedback from the last set of students that attempted this assignment, 
 
 # Last year's feedback
 
-A summary of the feedback on this assignment from last year is included in `old-feedback.md`. It did not have the "Improvement" question. Repetitive comments have been merged and condensed and some comments specific to the offering have been redacted.
+A summary of the feedback on this project from last year is included in `old-feedback.md`. It did not have the "Improvement" question. Repetitive comments have been merged and condensed and some comments specific to the offering have been redacted. Based on the feedback, a longer time period is assigned with ample time after final exams.
 
 # Submission
 
@@ -49,7 +49,7 @@ Include a `website` folder that includes your website, either as HTML, markdown,
 
 This is a team submission on GitHub and contributes to your _Submission Score_.
 
-_Deadline_: XXX
+_Deadline_: 2359h on Sunday, 19 December
 
 ## 2 Feedback Form
 
@@ -57,7 +57,7 @@ You will provide feedback on your buddies and on the project. The feedback form 
 
 This is an individual submission on LMS and contributes to your individual _Team Factor_ which is 1 by default and penalized for non-submission of the feedback or non-participation in the team as assessed through peer feedback or GitHub contribution.
 
-_Deadline_: XXX
+_Deadline_: 2359h on Sunday, 19 December
 
 # Grading
 
