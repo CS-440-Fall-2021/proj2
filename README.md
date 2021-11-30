@@ -33,6 +33,10 @@ Based on feedback from the last set of students that attempted this assignment, 
 - (min, max) : (37, 160)
 - (mean, median, st.dev.) : (83.6, 50, 47.1)
 
+# Last year's feedback
+
+A summary of the feedback on this assignment from last year is included in `old-feedback.md`. It did not have the "Improvement" question. Repetitive comments have been merged and condensed and some comments specific to the offering have been redacted.
+
 # Submission
 
 There are 2 parts to the submission.
